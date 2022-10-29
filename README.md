@@ -7,3 +7,7 @@
 [2,3,4,5,6,9|,8,15,7] 
 [2,3,4,5,6,7,8|,15,9] 
 [2,3,4,5,6,7,8,15|,9] 
+
+arage case 
+O(n^2)
+[www](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
